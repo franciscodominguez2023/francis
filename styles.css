@@ -1,0 +1,96 @@
+
+
+.contenedor{
+    border:2px solid black;
+    margin: 0 auto;
+    width: 70%;   
+    padding: 10px;
+}
+
+.principal{
+    background: #0cb1bf;
+    padding: 10px;
+}
+
+.header img{
+    border: 5px solid blue;
+    width: 300px;
+    height: 250px;
+}
+
+.header{
+    display: flex;
+}
+
+.data{
+    margin-left: 80px;
+    width: 100%;
+}
+
+.project{
+    border: 5px solid blue;
+    width: 230px;
+    height: 230px;
+    display: flex;
+    margin: 70px;
+}
+
+section#Educativa{
+    background-color: #0cb1bf;
+    border: 5px solid blue;
+      
+}
+
+section#Educativa h1,h2{
+    font-size: 2rem;
+}
+
+section#Educativa p,li{
+    font-size: 1.5rem;
+}
+
+.Educativa-list{
+    display:flex;
+    justify-content: center;
+}
+
+.mensaje{
+    background-color: blue;
+}
+
+.mensaje p{
+    font-size: 1.3rem;
+    background-color: wheat;
+}
+
+.mensaje button{
+    font-size: 1.3rem;
+}
+
+.evento button{
+    font-size: 1rem;
+    background-color: #0cb1bf;
+}
+
+
+
+
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+    
+
+
+
+
+    
+
